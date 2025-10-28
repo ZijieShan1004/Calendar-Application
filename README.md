@@ -1,3 +1,7 @@
+# Calendar-Application  
+This is a project I developed during my CS3500 course(Object Oriented Design) at Northeastern University.  
+This a Calendar Application with different functions.
+
 1. Design changes and justification
 
 - Refactored controller into CalendarControllerV2 and CalendarGUIController to follow single responsibility principle
